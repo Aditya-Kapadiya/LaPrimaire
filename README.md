@@ -4,7 +4,7 @@
 # Website
 
 This is the code of [LaPrimaire.org website](https://laprimaire.org).
-It is a static website created with the [Nanoc](http://nanoc.ws/), a ruby static site generator that has been chosen for its accessibility and ease of use and [nanoc-skeleton](https://github.com/alessandro1997/nanoc-skeleton) as a starter template to provide Bootstrap goodness.
+It is a static website created with the [Nanoc](https://nanoc.ws/), a ruby static site generator that has been chosen for its accessibility and ease of use and [nanoc-skeleton](https://github.com/alessandro1997/nanoc-skeleton) as a starter template to provide Bootstrap goodness.
 
 ## Usage
 
@@ -33,7 +33,7 @@ You can now access your local copy of democratech's website at [http://localhost
 
 ## Contributing
 
-1. [Fork it](http://github.com/democratech/LaPrimaire/fork)
+1. [Fork it](https://github.com/democratech/LaPrimaire/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
